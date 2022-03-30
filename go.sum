@@ -522,6 +522,8 @@ github.com/grpc-ecosystem/grpc-gateway v1.14.6/go.mod h1:zdiPV4Yse/1gnckTHtghG4G
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330080655-5ab32227fd0d h1:E89uiq44ozbMXX+PO/pP0vrZgAwJSvUxH05Qffy0gzs=
 github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330080655-5ab32227fd0d/go.mod h1:6UswD8slOZeyp4BAfAJRK4U+y3+0VmUYEEMqEfYyXu8=
+github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330090341-b4b60015944b h1:Tk4JNctcYelneWvj5bj+2RUq9eJ5b2wPf0Iiciis1yk=
+github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330090341-b4b60015944b/go.mod h1:6UswD8slOZeyp4BAfAJRK4U+y3+0VmUYEEMqEfYyXu8=
 github.com/gsmlg-dev/libdns-zdns v0.0.0-20220330084129-9d01409d5c83 h1:prIAxn/xtazhypFb2zYVp1ZehvydmdrWaFOBw1kv6Og=
 github.com/gsmlg-dev/libdns-zdns v0.0.0-20220330084129-9d01409d5c83/go.mod h1:V7fZScd6mhcWFMTEs0TpxBwJfl0bH2W5t+vZUezEI0c=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=

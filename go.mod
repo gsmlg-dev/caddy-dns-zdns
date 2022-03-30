@@ -14,7 +14,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330080655-5ab32227fd0d // indirect
+	github.com/gsmlg-dev/gsmlg-golang v0.0.0-20220330090341-b4b60015944b // indirect
 	github.com/klauspost/cpuid/v2 v2.0.12 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
