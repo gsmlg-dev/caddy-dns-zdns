@@ -1,7 +1,7 @@
-\<PROVIDER\> ZDNS for Caddy
+\<ZDNS\> ZDNS for Caddy
 ===========================
 
-This package contains a DNS provider ZDNS for [Caddy](https://github.com/caddyserver/caddy). It can be used to manage DNS records with \<PROVIDER\>.
+This package contains a DNS provider ZDNS for [Caddy](https://github.com/caddyserver/caddy). It can be used to manage DNS records with \<ZDNS\>.
 
 ## Caddy module name
 
