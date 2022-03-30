@@ -5,7 +5,6 @@ go 1.17
 require (
 	github.com/caddyserver/caddy/v2 v2.4.6
 	github.com/gsmlg-dev/libdns-zdns v0.0.0-20220330084129-9d01409d5c83
-	github.com/libdns/template v0.1.0
 )
 
 require (
