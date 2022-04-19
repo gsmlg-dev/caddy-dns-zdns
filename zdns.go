@@ -64,9 +64,3 @@ func (p *Provider) UnmarshalCaddyfile(d *caddyfile.Dispenser) error {
 	}
 	return nil
 }
-
-// Interface guards
-var (
-	_ caddyfile.Unmarshaler = (*Provider)(nil)
-	_ caddy.Provisioner     = (*Provider)(nil)
-)
