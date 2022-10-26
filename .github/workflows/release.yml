@@ -41,5 +41,6 @@ jobs:
           extra_plugins: |
             @semantic-release/exec
         env:
+          GOPRIVATE: github.com/gsmlg-dev/gsmlg-golang
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
