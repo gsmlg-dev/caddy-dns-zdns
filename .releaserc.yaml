@@ -7,8 +7,8 @@ plugins:
     - "prepareCmd": >-
         echo ${nextRelease.version};
         go install github.com/caddyserver/xcaddy/cmd/xcaddy@latest;
-        xcaddy build master --output ./caddy --with github.com/gsmlg-dev/caddy-dns-zdns=$(pwd);
-      "publishCmd": "echo publish gsmlg-cli ${nextRelease.version}"
+        xcaddy build v2.6.2 --output ./caddy --with github.com/gsmlg-dev/caddy-dns-zdns=$(pwd);
+      "publishCmd": "echo publish caddy-dns-zdns ${nextRelease.version}"
 branches:
   - +([0-9])?(.{+([0-9]),x}).x
   - main
